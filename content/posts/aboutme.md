@@ -1,7 +1,7 @@
 ---
 title: "AboutMe"
 date: 2022-10-15T05:25:27+07:00
-draft: true
+draft: false
 ---
 Hi I'm PlatinaSB.
 

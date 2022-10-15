@@ -1,7 +1,7 @@
 ---
 title: "Showcase"
 date: 2022-10-15T05:50:47+07:00
-draft: true
+draft: false
 ---
 
 Lorem ipsum dolor sit amet, consectetur adipiscing elit. Cras in scelerisque lorem, in vestibulum sapien. Integer a scelerisque ante. Nullam sed est fermentum, placerat quam sed, dictum justo. Ut a eros non sapien aliquet suscipit. Aliquam condimentum ex nec diam tempus, sit amet sollicitudin lacus maximus. Vivamus id felis sit amet ex sodales aliquet. Nunc non dolor ut nibh egestas consequat. Donec sit amet vestibulum nisi. Etiam consequat ullamcorper imperdiet. Vestibulum consequat at odio sit amet interdum. Interdum et malesuada fames ac ante ipsum primis in faucibus. Mauris vitae urna non elit aliquam iaculis ac eu nulla. Donec pulvinar sed odio non viverra. Proin tempus felis eget massa egestas, at mollis nisl pellentesque. Class aptent taciti sociosqu ad litora torquent per conubia nostra, per inceptos himenaeos.
