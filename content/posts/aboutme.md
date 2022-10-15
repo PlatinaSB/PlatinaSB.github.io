@@ -8,7 +8,7 @@ Hi I'm PlatinaSB.
 I'm still newbies to programming and taking major in Informatics Enginering.
 
 My main focus right now is learning python, typescript and flutter frameworks.\
-using HUGO RN to diaplay this site.             
+using HUGO RN to diaplay this site.
 
 My Twitch : [Twitch](https://www.twitch.tv/platinasb)\
 My GitHub : [Gihub](https://github.com/PlatinaSB)\
