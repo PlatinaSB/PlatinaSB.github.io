@@ -1,4 +1,4 @@
-baseurl = "/"
+baseurl = "platinasb.github.io/"
 languageCode = "en-us"
 theme = "terminal"
 paginate = 5
