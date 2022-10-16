@@ -9,10 +9,10 @@ paginate = 5
   contentTypeName = "posts"
 
   # ["orange", "blue", "red", "green", "pink"]
-  themeColor = "orange"
+  themeColor = "red"
 
   # if you set this to 0, only submenu trigger will be visible
-  showMenuItems = 2
+  showMenuItems = 5
 
   # show selector to switch language
   showLanguageSelector = false
@@ -33,7 +33,7 @@ paginate = 5
   showLastUpdated = false
 
   # set a custom favicon (default is a `themeColor` square)
-  favicon = "favicon.ico"
+  #favicon = "red"
 
   # Provide a string as a prefix for the last update date. By default, it looks like this: 2020-xx-xx [Updated: 2020-xx-xx] :: Author
   # updatedDatePrefix = "Updated"
@@ -89,3 +89,60 @@ paginate = 5
         identifier = "showcase"
         name = "Showcase"
         url = "/showcase"
+      [[languages.en.menu.main]]
+        identifier = "goals"
+        name = "Goals"
+        url = "/goals"
+
+[markup]
+  defaultMarkdownHandler = 'goldmark'
+  [markup.asciidocExt]
+    backend = 'html5'
+    extensions = []
+    failureLevel = 'fatal'
+    noHeaderOrFooter = true
+    preserveTOC = false
+    safeMode = 'unsafe'
+    sectionNumbers = false
+    trace = false
+    verbose = false
+    workingFolderCurrent = false
+    [markup.asciidocExt.attributes]
+  [markup.goldmark]
+    [markup.goldmark.extensions]
+      definitionList = true
+      footnote = true
+      linkify = true
+      linkifyProtocol = 'https'
+      strikethrough = true
+      table = true
+      taskList = true
+      typographer = true
+    [markup.goldmark.parser]
+      autoHeadingID = true
+      autoHeadingIDType = 'github'
+      [markup.goldmark.parser.attribute]
+        block = false
+        title = true
+    [markup.goldmark.renderer]
+      hardWraps = false
+      unsafe = true
+      xhtml = true
+  [markup.highlight]
+    anchorLineNos = false
+    codeFences = true
+    guessSyntax = false
+    hl_Lines = ''
+    hl_inline = false
+    lineAnchors = ''
+    lineNoStart = 1
+    lineNos = false
+    lineNumbersInTable = true
+    noClasses = true
+    noHl = false
+    style = 'monokai'
+    tabWidth = 4
+  [markup.tableOfContents]
+    endLevel = 3
+    ordered = false
+    startLevel = 2

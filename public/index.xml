@@ -8,6 +8,25 @@
     <language>en-us</language>
     <lastBuildDate>Sat, 15 Oct 2022 05:25:27 +0700</lastBuildDate><atom:link href="platinasb.github.io/index.xml" rel="self" type="application/rss+xml" />
     <item>
+      <title>Goals</title>
+      <link>platinasb.github.io/goals/</link>
+      <pubDate>Sun, 16 Oct 2022 14:32:31 +0700</pubDate>
+      
+      <guid>platinasb.github.io/goals/</guid>
+      <description>Main Goals makes this website original as posibble finish my informatic major Future Goals build a startup that will competed with YouTube and Twitter </description>
+      <content>&lt;h2 id=&#34;main-goals&#34;&gt;Main Goals&lt;/h2&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;input disabled=&#34;&#34; type=&#34;checkbox&#34; /&gt; makes this website original as posibble&lt;/li&gt;
+&lt;li&gt;&lt;input disabled=&#34;&#34; type=&#34;checkbox&#34; /&gt; finish my &lt;strong&gt;informatic major&lt;/strong&gt;&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h2 id=&#34;future-goals&#34;&gt;Future Goals&lt;/h2&gt;
+&lt;ul&gt;
+&lt;li&gt;build a startup that will competed with &lt;a href=&#34;https://www.youtube.com/watch?v=dQw4w9WgXcQ&#34;  target=&#34;_blank&#34;&gt;YouTube&lt;/a&gt; and &lt;a href=&#34;https://twitter.com/platina_sb&#34;  target=&#34;_blank&#34;&gt;Twitter&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+</content>
+    </item>
+    
+    <item>
       <title>Showcase</title>
       <link>platinasb.github.io/showcase/</link>
       <pubDate>Sat, 15 Oct 2022 05:50:47 +0700</pubDate>
@@ -45,16 +64,16 @@
 I&amp;rsquo;m still newbies to programming and taking major in Informatics Enginering.
 My main focus right now is learning python, typescript and flutter frameworks.
 using HUGO RN to diaplay this site.
-My Twitch : Twitch
-My GitHub : Gihub
-My socials : Twitter</description>
+My Twitch : platinasb
+My GitHub : platinasb
+My socials : platina_sb</description>
       <content>&lt;p&gt;Hi I&amp;rsquo;m PlatinaSB.&lt;/p&gt;
 &lt;p&gt;I&amp;rsquo;m still newbies to programming and taking major in Informatics Enginering.&lt;/p&gt;
-&lt;p&gt;My main focus right now is learning python, typescript and flutter frameworks.&lt;br&gt;
+&lt;p&gt;My main focus right now is learning python, typescript and flutter frameworks.&lt;br /&gt;
 using HUGO RN to diaplay this site.&lt;/p&gt;
-&lt;p&gt;My Twitch : &lt;a href=&#34;https://www.twitch.tv/platinasb&#34;&gt;Twitch&lt;/a&gt;&lt;br&gt;
-My GitHub : &lt;a href=&#34;https://github.com/PlatinaSB&#34;&gt;Gihub&lt;/a&gt;&lt;br&gt;
-My socials : &lt;a href=&#34;https://twitter.com/Platina_SB&#34;&gt;Twitter&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;My Twitch : &lt;a href=&#34;https://www.twitch.tv/platinasb&#34;  target=&#34;_blank&#34;&gt;platinasb&lt;/a&gt;&lt;br /&gt;
+My GitHub : &lt;a href=&#34;https://github.com/platinasb&#34;  target=&#34;_blank&#34;&gt;platinasb&lt;/a&gt;&lt;br /&gt;
+My socials : &lt;a href=&#34;https://twitter.com/platina_sb&#34;  target=&#34;_blank&#34;&gt;platina_sb&lt;/a&gt;&lt;/p&gt;
 </content>
     </item>
     
